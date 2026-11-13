@@ -56,4 +56,4 @@ make ifs
 - **YouTube**: [https://youtu.be/KIUu16QWo2A](https://youtu.be/KIUu16QWo2A)
 
 ## 📜 License
-Released under the **Apache-2.0** Open Source License (see [`LICENSE`](./LICENSE)).
+Released under the **GNU General Public License v3.0 (GPL-3.0)** (see [`LICENSE`](./LICENSE)).
